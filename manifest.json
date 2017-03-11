@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Getting started example",
-  "description": "This extension shows a Google Image search result for the current page",
+  "name": "Hitomi redirector",
+  "description": "This extension helps user to find hitomi url easily",
   "version": "1.0",
 	"icons": {
 		"16": "fp.png",
